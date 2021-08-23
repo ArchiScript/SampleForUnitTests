@@ -6,7 +6,7 @@ namespace SampleForUnitTests
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
         }
     }
 }
